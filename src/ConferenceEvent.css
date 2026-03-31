@@ -36,7 +36,8 @@
   .text h1{
     width: 900px;
     font-size: 40px;
-    background-color: #133b6a;
+    /*background-color: #133b6a;*/
+    background-color: green;
     color: white;
     width:990px;
     height: 70px;
